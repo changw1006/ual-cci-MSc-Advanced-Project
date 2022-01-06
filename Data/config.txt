@@ -1,0 +1,3 @@
+MinimumDistance=0
+MaximumDistance=5
+LeftAndRightIdentification=3
